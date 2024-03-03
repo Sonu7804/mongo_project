@@ -1,1 +1,1 @@
-# mongo_project
+# be_mongoose_class
